@@ -1,5 +1,19 @@
-h1,p{
-    align-items: center;
-    justify-items: center;
-    padding-left: 60px;
+ h1,p,input{
+  margin-left: 45%;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+} 
+body{
+    background-color: rgb(197, 197, 197);
+}
+h1{
+
+    color: brown;
+}
+button{
+    margin-left: 50%;
+    margin-top: 10px;
 }
